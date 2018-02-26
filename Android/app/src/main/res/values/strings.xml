@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <!-- MS Face API -->
+    <string name="subscription_key">29ef66b5625a4593a55fc63e3ce2ef64</string>
+    <string name="endpoint">https://southeastasia.api.cognitive.microsoft.com/face/v1.0</string>
+</resources>
